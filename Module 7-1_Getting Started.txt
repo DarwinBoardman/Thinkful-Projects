@@ -1,0 +1,18 @@
+Thinkful Module 7-1: Getting Started
+
+1. Networking mindset exercise: This is a self-reflective exercise that only requires you to
+   think. When you think about connecting with others in your new tech field, what comes 
+   to mind? Is this something that you’re excited about? Are you anxious? Are you nervous? 
+   Take about 5 - 10 minutes to assess your thoughts and feelings about networking.
+
+Answer: The first thing that comes to mind when meeting new people in a new career field is that I'm the
+outsider and it'll be tough to fit in. I've spent a lot of time branding myself as a geologist; so now that
+I'm looking at data science, I'm concerned about culture shock on both sides. I'm definitely anxious and nervous.
+However, I've networked for a long time and I think I can apply a lot of my skills in this effort. I just 
+need to make sure that I don't come off as uneducated to the established data science community. 
+
+2. entify 3 local networking opportunities you plan to attend and 3 tech professionals in your area you want to connect with.
+
+Answer: Details are here - https://docs.google.com/spreadsheets/d/10mtUTWlTurwE2gT4zfuENBrBLb80huh6l2fz2v-ZsBc/edit#gid=193093322
+        Poeple - Matt Francis, Steve Nouri, Casey Wasrshauer
+        Events - NAPE, Meet up with Matt Francis, GA Monthly Open House

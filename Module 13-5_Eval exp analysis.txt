@@ -1,0 +1,49 @@
+Module 13-5_Evaluate experimental analysis
+
+Now it's time to flex your critical evaluation skills. Read the following descriptions of an experiment and its analysis, identify the flaws in each, and describe what you would do to correct them.
+
+1) The Sith Lords are concerned that their recruiting slogan, "Give In to Your Anger," isn't very effective. Darth Vader develops an alternative slogan, "Together We Can Rule the Galaxy." 
+They compare the slogans on two groups of 50 captured droids each. In one group, Emperor Palpatine delivers the "Anger" slogan. In the other, Darth Vader presents the "Together" slogan. 
+20 droids convert to the Dark Side after hearing Palpatine's slogan, while only 5 droids convert after hearing Vader's. The Sith's data scientist concludes that "Anger" is a more effective slogan and should continue to be used.
+
+Answer: There are several flaws. First of all, the Emperor was a career politician and gained power through manipulation and pursuasion. Darth Vader is more quiet and never enjoyed the limelight.
+Public speaking skills alone can influence outcomes. These droids could have been tampered with. They could have been "captured" through several mediums, such as in combat or any other situation that might 
+influence their programming and response to input. They also could have been any make or model based on the vague nature of this design.
+
+I wouldn't use droids to begin with. Since Darth Vader and the Emperor have something to gain in either situation (and can influence minds), I would have someone else (who is loyal of course!) give the different slogans to a randomly 
+split audience in seperate rooms who are all captured and not members of the rebellion. I would choose people who aren't combatants and grow sympathy in the general population first.
+
+
+2) In the past, the Jedi have had difficulty with public relations. They send two envoys, Jar Jar Binks and Mace Windu, to four friendly and four unfriendly planets respectively, with the goal of promoting favorable 
+feelings toward the Jedi. Upon their return, the envoys learn that Jar Jar was much more effective than Windu: Over 75% of the people surveyed said their attitudes had become more favorable after speaking with Jar Jar, 
+while only 65% said their attitudes had become more favorable after speaking with Windu. This makes Windu angry, because he is sure that he had a better success rate than Jar Jar on every planet. The Jedi choose Jar Jar to 
+be their representative in the future.
+
+Answer: Like in the past question, there are competing personalities at play and Jar Jar Binks is more goofy and easy to approach than Mace Windu. Therefore, he likely had more success because more people felt comfortable around him.
+I would have chosen either another jedi to accompany Mace or another person who is more animated, like Jar Jar to compare more apples-to-apples. Not to mention, there was no discussion on who they targeted. I would want to see if one of 
+them had better success with different populations than the other.
+
+
+3) A company with work sites in five different countries has sent you data on employee satisfaction rates for workers in Human Resources and workers in Information Technology. Most HR workers are concentrated in three of the 
+countries, while IT workers are equally distributed across worksites. The company requests a report on satisfaction for each job type. You calculate average job satisfaction for HR and for IT and present the report.
+
+Answer: This might differ based on region and what's going on locally. If one set of IT are really disappointed in one country, that might lower the overall average of satisfaction for that job and undervalue the frustration of a 
+particular group of the IT. I would look at the satisfaction of the job types where they share the same country. In addition, I would evaluate the other 2 countries by themselves since there is no representation of both job types.
+
+
+4) When people install the Happy Days Fitness Tracker app, they are asked to "opt in" to a data collection scheme where their level of physical activity data is automatically sent to the company for product research purposes. 
+During your interview with the company, they tell you that the app is very effective because after installing the app, the data show that people's activity levels rise steadily.
+
+Answer: If someone opts in to the data collection, then that might not fully represent the entire population of people with the app that didn't opt in. Some of those who didn't opt in might not be working out more on average.
+In addition, peoples activity level data would rise steadily if the point of origin is only AFTER they install the app.
+I would ask people what their activity levels were prior to installing the app to get a better baseline and run a regression of some kind to try and estimate activity levels for those who opted out. People are also generally more
+active around holiday seasons, so I would also want to make sure that didn't artificially influence the results.
+
+
+5)To prevent cheating, a teacher writes three versions of a test. She stacks the three versions together, first all copies of Version A, then all copies of Version B, then all copies of Version C. 
+As students arrive for the exam, each student takes a test. When grading the test, the teacher finds that students who took Version B scored higher than students who took either Version A or Version C. 
+She concludes from this that Version B is easier, and discards it.
+
+Answer: There was no accounting for the average grades in the class leading up to the specific test in question. If someone wanted to know if a test version was easier or not, then I would want to know if the average 
+lower-performing students showed improvement. In addition, if any of the high-performing students struggled with other versions. Also, there's a tactic when deciding which version to take when provided with 3 options. 
+I would have put them all in the same stack and randomly sorted them however is feasible, so no student could choose a version for themselves.

@@ -1,0 +1,30 @@
+Module 13-6_ Research Proposal
+
+Look back to the potential experiments in the previous assignment. For one of those experiments, write up the essential points of a research proposal for an improved version of that experiment.
+
+The problem:
+
+The empire needs more troops to crush the rebellion. Darth Vadar and Emporer Palpatine have different preferred
+slogans to test out in order to increase the rate of recruitment to their side. The focus is to convert as many people
+as possible. The current slogan is "Give in to Your Anger" and doesn't seem to be very effective. Darth Vadar is proposing
+a new slogan of "Together We Can Rule the Galaxy". 
+
+The hypothesis:
+
+The new slogan, "Give in to Your Anger" will improve recruiting results.
+
+The method of testing:
+
+50 men and 50 women of the ages 18-25 were taken from 10 planets, with a total of 1,000 prime candidates to join the empire.
+A random sample of 500 men and women were selected to be shown the old slogan and the other half were shown the new slogan in 
+separate rooms.
+
+Both rooms were given their respective slogans by the same eager General. 
+
+We will record the number of people who are willing to join the empire based on the slogans. If the new slogan proves to significanlty
+generate more interest, then the empire will role out the new slogan across the galaxy.
+
+Regardless...those who don't join us willingly will either be forced to join us or perish... because, we're the empire and that's
+how we role. It'll be nice to know who we can convert easier, of course.
+
+Other features to record will include planet of origin and whether they have ties to the empire and/or the rebellion.

@@ -1,0 +1,65 @@
+Module 13-2 A/B Testing
+
+For each of the following questions, outline how you could use an A/B test to find an answer. Be sure to identify all five key components of an A/B test we outlined above.
+
+1) Does a new supplement help people sleep better?
+Two versions: Assuming there is already a supplement in use, we will want to see if this new supplement improves sleep for people by comparison.
+The control will be the group still using the old supplement and the treatment will be the group using the new supplement.
+
+Sample: Out of the population, we will select people with similar age, weight, and gender to keep things relatable. 50% will be randomly sampled
+to represent the A vs B groups. 
+
+Hypothesis: People with the new supplement will sleep better through the night.
+
+Outcome(s): Length of uninterupted sleep will be the key metric to measure. 
+
+Other measured variables: Secondary variables will consist of height, weight, heart-rate (with wearable device), and reports of general energy levels.
+
+
+2) Will new uniforms help a gym's business?
+
+Two versions: Assuming this gym has other locations. The control will be gyms with the older uniform and the treatment will be gyms with the new uniform.
+
+Sample: Out of the population, we will select 2 gyms that are similarly populated areas with comparable revenues, staff, and members. 1 location will have the new 
+uniform and the other will have the old one. This test will be performed during a time-frame outside of major holiday seasons.
+
+Hypothesis: Gyms with new uniforms will increase revenue.
+
+Outcome(s): Revenue will be the key metric to measure.
+
+Other measured variables: Secondary variables will consist of members, date, sign-in and sign-out information on each customer, membership type, if they signed up for 
+private lessons.
+
+
+3) Will a new homepage improve my online exotic pet rental business?
+
+Two versions: 2 versions of the homepage will be examined. The control will be the older homepage and the treatment will be the new homepage.
+
+Sample: There will be a process built that randomly selects 50% of all visitors that directs them to the new homepage vs the old homepage.
+
+Hypothesis: The new home page will improve my online exotic pet rental business.
+
+Outcome(s): Revenue will be the key metric to measure. Even if it's due to repeat business, the broad scope of "improve" can suggest any increase in revenue will be considered
+a success.
+
+Other measured variables: Secondary variables will consist of IP address, customer information, length of time on website, transaction history, new customer, repeat customer, location, and purpose for rental.
+
+
+
+4) If I put 'please read' in the email subject will more people read my emails?
+
+Two versions: 2 versions of the exact same email will be sent out. The control will be emails without "please read" and the treatment will be emails with "please read" in the subject line.
+The assumption is the demographics of people that we are targeting are known.
+
+Sample: Emails will be sent out after normal work hours and to people with similar demographic information. 50% of the emails will be randomly sent out that have "please read" in the subject line.
+
+Hypothesis: People are more likely to click on the emails with "please read" in the subject line than emails without it.
+
+Outcome(s): The amount of people who click on the email will be the key metric. 
+
+Other measured variables: Secondary variables will consist of IP address, number times the email is opened, date/time stamp, further inquiries into the request of the email.
+
+
+
+
+

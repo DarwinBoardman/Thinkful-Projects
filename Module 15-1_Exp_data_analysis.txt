@@ -1,0 +1,19 @@
+Module 15-1_Exploratory Data Analysis
+
+1) What is the goal of EDA (exploratory data analysis)?
+Answer: The goal of EDA is to clean and understand the data prior to modeling.
+
+2) Suppose that you are given a dataset of customer product reviews for an e-commerce company. 
+Each review is scored as a Likert-style survey item where 1 indicates a negative sentiment about the product 
+and a 5 is positive. These reviews are collected on the company's website. a. What problems do you expect to
+find in the raw data? b. If your task is to build features that give information about customer sentiments, 
+how would you approach this task and what kind of methods would you apply to accomplish it? c. Try to identify 
+some potentially useful features that you might derive from the raw data. How would you derive them and how 
+would you assess the usefulness of those features?
+Answer: 
+A) Information might not be parsed cleanly, there could be outliers, columns might not be formatted correctly.
+B) I would create a column for number of stars and another column for narratives from the customer feedback. 
+Then, I would see if I could find overlapping words/phrases and cross reference them with the number of stars given.
+C) Average stars/area and any demographics we could find. This could help us determine if product quality is 
+better or worse in certain areas. The type and usefulness of the features would entirely be deteremined based on
+the data collected.

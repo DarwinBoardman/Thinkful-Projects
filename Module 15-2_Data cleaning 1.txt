@@ -1,0 +1,15 @@
+Module 15-2_Data cleaning 1 - Variable types
+
+1. Consider the advantages and disadvantages of treating the Rank variable as categorical. Discuss your arguments with your mentor.
+Rank as a categorical variable is a usefule way to evaluate other continuous variables based on similar grouping on value ranges. 
+Ranges of continuous data, such as height, speed, or temperature can be assigned a ranking of 1, 2, or 3 and 
+therefore groups of these data can be segmented and summarized as "like" and "dislike" data within the dataset.
+They can then be analyzed based on the category of Rank. However, the data scientist or analysist should statistically determine what qualifies a 1, 2, or 3
+assignment before blindly ranking the values. 
+
+2. What are the types of the following variables?
+Age - Ratio, contininuous variable but can be treated as a categorical variable depending on the context of the dataset.
+Salary - Can be nominal, continuous, or ratio
+Revenue - Can be nominal, continuous, or ratio
+Customer type - Most commonly an ordinal variable 
+Stock price - Can be nominal, continuous, or ratio

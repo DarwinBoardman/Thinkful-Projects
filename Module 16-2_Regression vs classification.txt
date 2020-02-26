@@ -1,0 +1,28 @@
+Module 16-2_Regression vs Classification
+
+For each of the following situations, decide if you would model using a regression or classification model.
+Discuss your reasoning with your mentor next time you meet.
+
+1. The amount a person will spend on a given site in the next 24 months. 
+1A. Regression because the measure is a continuous variable of money people will spend on a categorical variable(website).
+
+2. What color car someone is going to buy.
+2A. Classification because it's based on the color scheme categories.
+
+3. How many children a family will have.
+3A. This one was tricky because families don't usually have an infinite number of kids. However, this could be
+argued that some categorical and continuous information would be inputs for a continuous variable of amount of kids.
+Therefore, this would be a regression model.
+
+4. If someone will sign up for a service.
+4A. Classification on yes or no.
+
+5. The number of times someone will get sick in a year.
+5A. Regression model would work in this case due to the fact that this isn't discussion what they will get sick with,
+and foucused on frequency of sickness.
+
+6. The probability someone will get sick in the next month.
+6A. Regression because again, this isn't classifying what type of sickness they'll come down with.
+
+7. Which medicine will work best for a given patient.
+7A. Classification because it's basing the analysis on the categorical variable of medicine.

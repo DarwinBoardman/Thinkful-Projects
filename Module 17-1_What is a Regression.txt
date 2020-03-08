@@ -1,0 +1,30 @@
+Module 17-1_What is a Regression?
+
+1. Let's assume that you have World Bank data on financial, economic and social indicators for several countries. 
+   You want to measure the factors that affect the level of development in these countries. To this end, you decide to use per 
+   capita income as a proxy for the development level, which is defined as the national income divided by the population. 
+   You want to use some features in your dataset to predict per capita income. Is this task a classification or a regression task? 
+   Why?
+1A. Using financial data to predict values can usually be treated with a regression. Since we are trying to predict per capita income,
+    then this could be a regression task. There are technically an infinite number of possible values in a continuous line.
+    If we wanted to predict level of development in groups of per capital income ranges, then that would likely be a 
+    classification task.
+
+2. Which of the following arguments are false and why?
+   - OLS is a special type of linear regression models
+     False: It's an optimization algorithm.
+   - Regression models become useless if they don’t meet the assumptions of linear regression.
+     False: There are 6 conditions for assumptions that must be met. However, if something falls apart, you can address it.
+   - Estimation and prediction are the same thing in the context of linear regression models.
+     False: Estimations are generalizing trends in the coefficients, whereas predictions use estimations to determine an outcome.
+   - Linear regression is only one kind of regression model. Regression problems can also be solved with other kind of models 
+     like Support Vector Machines or Random Forests.
+     True
+
+3. Assume that your project manager wants you to discover which free services your company offers make your customers buy more 
+   of your paid services. Formulate this task as a regression problem and write down the potential outcome and features that you’d 
+   like to work on.
+3A. I'd like to take total revenue of paid services by month and plot it against amount of free services used per month.
+    Then, which coefficients have the better fit, then we could predict an outcome by pushing more a percentage more free serices
+    with respect to total income.
+    
